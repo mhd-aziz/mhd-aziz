@@ -5,14 +5,15 @@
 
 <!-- Badges Row -->
 <p>
-  <a href="https://github.com/mhd-aziz">
-    <img src="https://komarev.com/ghpvc/?username=mhd-aziz&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=mhd-aziz&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
   <a href="https://github.com/mhd-aziz?tab=followers">
     <img src="https://img.shields.io/github/followers/mhd-aziz?label=Followers&style=for-the-badge&color=6e40c9" alt="Followers"/>
   </a>
-  <img src="https://img.shields.io/badge/Repos-15-blue?style=for-the-badge&logo=github" alt="Repos"/>
-  <img src="https://img.shields.io/badge/Open%20To%20Work-%F0%9F%9F%A2%20Yes-success?style=for-the-badge" alt="Open to Work"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Repos-15-8B5CF6?style=for-the-badge&logo=github" alt="Repos"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Yes%20%F0%9F%9F%A2-22c55e?style=for-the-badge" alt="Open to Work"/>
 </p>
 
 <!-- Typing SVG -->
@@ -63,27 +64,19 @@ interests   :
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases & Tools
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 </div>
@@ -94,16 +87,16 @@ interests   :
 
 <div align="center">
 
-| 🏗️ Project | 📝 Description | 🔧 Tech Stack | 🔗 Link |
-|---|---|---|---|
-| 🏪 **Berkat Jaya Nusantara** | Full-stack business web application (terbaru!) | `PHP` `Laravel` `Blade` | [📂 Repo](https://github.com/mhd-aziz/berkat-jaya-nusantara) |
-| 🍗 **Ayam Bakar Nusantara** | Full-stack restaurant web app — frontend, backend & chatbot | `JavaScript` `Node.js` | [🌐 Live](https://bazy17.github.io/Ayam-Bakar-Nusantara/) |
-| 🤖 **Chatbot ABN** | AI-powered chatbot dengan NLP untuk restoran | `Python` `Rasa` `NLP` | [📂 Repo](https://github.com/mhd-aziz/chatbot-ayambakarnusantara) |
-| 🌿 **IoT Smart Plant** | Smart plant monitoring system dengan sensor | `C++` `Arduino` `IoT` | [📂 Repo](https://github.com/mhd-aziz/uas-iot-smart-plant) |
-| 🤟 **Isyara** | Android app — pengenalan bahasa isyarat | `Kotlin` `Android` `ML` | [📂 Repo](https://github.com/mhd-aziz/isyara) |
-| 🖼️ **Photo Gallery** | Aplikasi galeri foto modern | `TypeScript` | [📂 Repo](https://github.com/mhd-aziz/photo-gallery) |
-| 📊 **Penilaian** | Sistem manajemen penilaian / nilai | `JavaScript` | [📂 Repo](https://github.com/mhd-aziz/penilaian) |
-| 📅 **Dicoding Event App** | Aplikasi Android untuk event Dicoding | `Kotlin` `Android` | [📂 Repo](https://github.com/mhd-aziz/Aplikasi-Dicoding-Event) |
+| 🏗️ Project | 📝 Description | 🔧 Stack | 🔗 |
+|:---|:---|:---|:---:|
+| 🏪 **Berkat Jaya Nusantara** | Full-stack business web app dengan Laravel | `PHP` `Laravel` `Blade` | [Repo](https://github.com/mhd-aziz/berkat-jaya-nusantara) |
+| 🍗 **Ayam Bakar Nusantara** | Web restoran lengkap — frontend, backend & chatbot | `JavaScript` `Node.js` | [Live 🌐](https://bazy17.github.io/Ayam-Bakar-Nusantara/) |
+| 🤖 **Chatbot ABN** | AI chatbot NLP untuk sistem restoran | `Python` `Rasa` | [Repo](https://github.com/mhd-aziz/chatbot-ayambakarnusantara) |
+| 🌿 **IoT Smart Plant** | Monitoring tanaman pintar berbasis sensor | `C++` `Arduino` | [Repo](https://github.com/mhd-aziz/uas-iot-smart-plant) |
+| 🤟 **Isyara** | Android app pengenalan bahasa isyarat | `Kotlin` `ML` | [Repo](https://github.com/mhd-aziz/isyara) |
+| 🖼️ **Photo Gallery** | Galeri foto modern dengan TypeScript | `TypeScript` | [Repo](https://github.com/mhd-aziz/photo-gallery) |
+| 📅 **Dicoding Event** | Android app untuk event Dicoding | `Kotlin` `Android` | [Repo](https://github.com/mhd-aziz/Aplikasi-Dicoding-Event) |
+| 📊 **Penilaian** | Sistem manajemen penilaian / nilai | `JavaScript` | [Repo](https://github.com/mhd-aziz/penilaian) |
 
 </div>
 
@@ -111,38 +104,165 @@ interests   :
 
 ## 📁 All Repositories (15)
 
-<div align="center">
-
 ### 🌐 Web Development — Full Stack
 
-[![berkat-jaya-nusantara](https://github-readme-stats.vercel.app/api/pin/?username=mhd-aziz&repo=berkat-jaya-nusantara&theme=tokyonight&hide_border=true)](https://github.com/mhd-aziz/berkat-jaya-nusantara)
-[![frontend-ayambakarnusantara](https://github-readme-stats.vercel.app/api/pin/?username=mhd-aziz&repo=frontend-ayambakarnusantara&theme=tokyonight&hide_border=true)](https://github.com/mhd-aziz/frontend-ayambakarnusantara)
-[![backend-ayambakarnusantara](https://github-readme-stats.vercel.app/api/pin/?username=mhd-aziz&repo=backend-ayambakarnusantara&theme=tokyonight&hide_border=true)](https://github.com/mhd-aziz/backend-ayambakarnusantara)
-[![Ayam-Bakar-Nusantara](https://github-readme-stats.vercel.app/api/pin/?username=mhd-aziz&repo=Ayam-Bakar-Nusantara&theme=tokyonight&hide_border=true)](https://github.com/mhd-aziz/Ayam-Bakar-Nusantara)
-[![photo-gallery](https://github-readme-stats.vercel.app/api/pin/?username=mhd-aziz&repo=photo-gallery&theme=tokyonight&hide_border=true)](https://github.com/mhd-aziz/photo-gallery)
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=mhd-aziz&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/mhd-aziz/portfolio)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mhd-aziz/berkat-jaya-nusantara">🏪 berkat-jaya-nusantara</a></h4>
+      <p>Full-stack business web application menggunakan Laravel</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mhd-aziz/frontend-ayambakarnusantara">🍗 frontend-ayambakarnusantara</a></h4>
+      <p>Frontend website Ayam Bakar Nusantara</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mhd-aziz/backend-ayambakarnusantara">⚙️ backend-ayambakarnusantara</a></h4>
+      <p>Backend API untuk Ayam Bakar Nusantara</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mhd-aziz/Ayam-Bakar-Nusantara">🌐 Ayam-Bakar-Nusantara</a></h4>
+      <p>Website restoran Ayam Bakar Nusantara — <a href="https://bazy17.github.io/Ayam-Bakar-Nusantara/">Live Demo ↗</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mhd-aziz/photo-gallery">🖼️ photo-gallery</a></h4>
+      <p>Aplikasi galeri foto modern</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mhd-aziz/portfolio">🧑‍💼 portfolio</a></h4>
+      <p>Website portfolio pribadi</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 🤖 AI & Chatbot
 
-[![chatbot-ayambakarnusantara](https://github-readme-stats.vercel.app/api/pin/?username=mhd-aziz&repo=chatbot-ayambakarnusantara&theme=tokyonight&hide_border=true)](https://github.com/mhd-aziz/chatbot-ayambakarnusantara)
-[![chatbot-ayambakarnusantara-rasa](https://github-readme-stats.vercel.app/api/pin/?username=mhd-aziz&repo=chatbot-ayambakarnusantara-rasa&theme=tokyonight&hide_border=true)](https://github.com/mhd-aziz/chatbot-ayambakarnusantara-rasa)
-[![deploy-chatbot-ayambakarnusantara](https://github-readme-stats.vercel.app/api/pin/?username=mhd-aziz&repo=deploy-chatbot-ayambakarnusantara&theme=tokyonight&hide_border=true)](https://github.com/mhd-aziz/deploy-chatbot-ayambakarnusantara)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mhd-aziz/chatbot-ayambakarnusantara">🤖 chatbot-ayambakarnusantara</a></h4>
+      <p>AI chatbot NLP untuk sistem Ayam Bakar Nusantara</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=google&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mhd-aziz/chatbot-ayambakarnusantara-rasa">💬 chatbot-rasa</a></h4>
+      <p>Chatbot menggunakan framework Rasa</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=rasa&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mhd-aziz/deploy-chatbot-ayambakarnusantara">🚀 deploy-chatbot-abn</a></h4>
+      <p>Deployment chatbot Ayam Bakar Nusantara</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- empty cell -->
+    </td>
+  </tr>
+</table>
 
 ### 📱 Mobile Development
 
-[![isyara](https://github-readme-stats.vercel.app/api/pin/?username=mhd-aziz&repo=isyara&theme=tokyonight&hide_border=true)](https://github.com/mhd-aziz/isyara)
-[![Aplikasi-Dicoding-Event](https://github-readme-stats.vercel.app/api/pin/?username=mhd-aziz&repo=Aplikasi-Dicoding-Event&theme=tokyonight&hide_border=true)](https://github.com/mhd-aziz/Aplikasi-Dicoding-Event)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mhd-aziz/isyara">🤟 isyara</a></h4>
+      <p>Android app pengenalan bahasa isyarat dengan Machine Learning</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mhd-aziz/Aplikasi-Dicoding-Event">📅 Aplikasi-Dicoding-Event</a></h4>
+      <p>Aplikasi Android untuk melihat event Dicoding</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 🔌 IoT & Embedded Systems
 
-[![uas-iot-smart-plant](https://github-readme-stats.vercel.app/api/pin/?username=mhd-aziz&repo=uas-iot-smart-plant&theme=tokyonight&hide_border=true)](https://github.com/mhd-aziz/uas-iot-smart-plant)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mhd-aziz/uas-iot-smart-plant">🌿 uas-iot-smart-plant</a></h4>
+      <p>Sistem monitoring tanaman pintar berbasis sensor IoT</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
+        <img src="https://img.shields.io/badge/IoT-00BCD4?style=flat-square&logo=raspberry-pi&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- future IoT projects -->
+    </td>
+  </tr>
+</table>
 
 ### 📚 Learning & Others
 
-[![JWD_Juli_2024](https://github-readme-stats.vercel.app/api/pin/?username=mhd-aziz&repo=JWD_Juli_2024&theme=tokyonight&hide_border=true)](https://github.com/mhd-aziz/JWD_Juli_2024)
-[![penilaian](https://github-readme-stats.vercel.app/api/pin/?username=mhd-aziz&repo=penilaian&theme=tokyonight&hide_border=true)](https://github.com/mhd-aziz/penilaian)
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mhd-aziz/JWD_Juli_2024">📖 JWD_Juli_2024</a></h4>
+      <p>Materi & latihan JavaScript Web Development — Juli 2024</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/mhd-aziz/penilaian">📊 penilaian</a></h4>
+      <p>Sistem manajemen penilaian dan pengelolaan nilai</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -151,10 +271,10 @@ interests   :
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mhd-aziz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-aziz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mhd-aziz&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
 
@@ -169,9 +289,7 @@ interests   :
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=mhd-aziz&theme=tokyonight&no-frame=true&margin-w=8&column=7" width="100%"/>
-
 </div>
 
 ---
@@ -184,9 +302,11 @@ interests   :
   <a href="https://github.com/mhd-aziz">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:muhamad17042002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/mhd-aziz">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
